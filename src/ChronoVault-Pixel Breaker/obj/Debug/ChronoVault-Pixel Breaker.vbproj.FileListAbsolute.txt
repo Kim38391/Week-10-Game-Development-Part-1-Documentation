@@ -1,0 +1,17 @@
+C:\Users\Kim38\OneDrive\Desktop\ChronoVault-Pixel Breaker\bin\Debug\ChronoVault-Pixel Breaker.exe.config
+C:\Users\Kim38\OneDrive\Desktop\ChronoVault-Pixel Breaker\bin\Debug\ChronoVault-Pixel Breaker.exe
+C:\Users\Kim38\OneDrive\Desktop\ChronoVault-Pixel Breaker\bin\Debug\ChronoVault-Pixel Breaker.pdb
+C:\Users\Kim38\OneDrive\Desktop\ChronoVault-Pixel Breaker\bin\Debug\ChronoVault-Pixel Breaker.xml
+C:\Users\Kim38\OneDrive\Desktop\ChronoVault-Pixel Breaker\obj\Debug\ChronoVault-Pixel Breaker.vbproj.AssemblyReference.cache
+C:\Users\Kim38\OneDrive\Desktop\ChronoVault-Pixel Breaker\obj\Debug\MainWindow.g.vb
+C:\Users\Kim38\OneDrive\Desktop\ChronoVault-Pixel Breaker\obj\Debug\Application.g.vb
+C:\Users\Kim38\OneDrive\Desktop\ChronoVault-Pixel Breaker\obj\Debug\ChronoVault-Pixel Breaker_MarkupCompile.cache
+C:\Users\Kim38\OneDrive\Desktop\ChronoVault-Pixel Breaker\obj\Debug\ChronoVault-Pixel Breaker_MarkupCompile.lref
+C:\Users\Kim38\OneDrive\Desktop\ChronoVault-Pixel Breaker\obj\Debug\MainWindow.baml
+C:\Users\Kim38\OneDrive\Desktop\ChronoVault-Pixel Breaker\obj\Debug\ChronoVault-Pixel Breaker.g.resources
+C:\Users\Kim38\OneDrive\Desktop\ChronoVault-Pixel Breaker\obj\Debug\ChronoVault_Pixel_Breaker.Resources.resources
+C:\Users\Kim38\OneDrive\Desktop\ChronoVault-Pixel Breaker\obj\Debug\ChronoVault-Pixel Breaker.vbproj.GenerateResource.cache
+C:\Users\Kim38\OneDrive\Desktop\ChronoVault-Pixel Breaker\obj\Debug\ChronoVault-Pixel Breaker.vbproj.CoreCompileInputs.cache
+C:\Users\Kim38\OneDrive\Desktop\ChronoVault-Pixel Breaker\obj\Debug\ChronoVault-Pixel Breaker.exe
+C:\Users\Kim38\OneDrive\Desktop\ChronoVault-Pixel Breaker\obj\Debug\ChronoVault-Pixel Breaker.xml
+C:\Users\Kim38\OneDrive\Desktop\ChronoVault-Pixel Breaker\obj\Debug\ChronoVault-Pixel Breaker.pdb
